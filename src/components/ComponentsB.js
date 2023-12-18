@@ -1,6 +1,9 @@
+
 import ComponentC from './ComponentsC';
 
+
 const ComponentB = () => {
+
 
     return (
         <div>
